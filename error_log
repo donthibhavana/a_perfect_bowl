@@ -1,0 +1,15 @@
+[26-Feb-2022 04:15:52 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/c03dhb4hr18z/public_html/perfectbowl/index.php on line 187
+[26-Feb-2022 04:15:52 UTC] PHP Notice:  Undefined index: id in /home/c03dhb4hr18z/public_html/perfectbowl/index.php on line 187
+[26-Feb-2022 04:16:08 UTC] PHP Notice:  Undefined index: rid in /home/c03dhb4hr18z/public_html/perfectbowl/editcategory.php on line 5
+[26-Feb-2022 04:16:08 UTC] PHP Notice:  Undefined variable: con in /home/c03dhb4hr18z/public_html/perfectbowl/editcategory.php on line 12
+[26-Feb-2022 04:16:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/c03dhb4hr18z/public_html/perfectbowl/editcategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/c03dhb4hr18z/public_html/perfectbowl/editcategory.php on line 12
+[26-Feb-2022 04:25:33 UTC] PHP Notice:  Undefined index: description in /home/c03dhb4hr18z/public_html/perfectbowl/remix.php on line 284
+[26-Feb-2022 04:26:23 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/c03dhb4hr18z/public_html/perfectbowl/index.php on line 187
+[26-Feb-2022 04:26:23 UTC] PHP Notice:  Undefined index: id in /home/c03dhb4hr18z/public_html/perfectbowl/index.php on line 187
+[26-Feb-2022 04:26:32 UTC] PHP Notice:  Undefined index: cate in /home/c03dhb4hr18z/public_html/perfectbowl/mixdetails.php on line 93
+[26-Feb-2022 04:26:32 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/c03dhb4hr18z/public_html/perfectbowl/mixdetails.php on line 108
+[26-Feb-2022 04:34:50 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/c03dhb4hr18z/public_html/perfectbowl/index.php on line 187
+[26-Feb-2022 04:34:50 UTC] PHP Notice:  Undefined index: id in /home/c03dhb4hr18z/public_html/perfectbowl/index.php on line 187
